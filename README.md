@@ -9,13 +9,16 @@ A 17 year-old Swiss apprentice
 </div>
 <div align="center">
 
-- 🛠 Currently learning Rust
-- ☕ I hate Coffee
-- 👨‍💻 Started learning programming approx. 2 years ago 
-- 📡 I enjoy gaming, anime
-- 👋 Add me on Discord: luiis#0859
+🛠 Currently learning Rust
+☕ I hate Coffee
+👨‍💻 Started learning programming approx. 2 years ago 
+📡 I enjoy gaming, anime
+👋 Add me on Discord: luiis#0859
   
 </div>
+
+
+
 
 <div align="center">
 
