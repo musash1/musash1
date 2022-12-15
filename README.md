@@ -29,8 +29,10 @@ A 17 year-old Swiss apprentice
 <br>
 <hr>
 <br>
-  <div verticalalign="top">
-![musash1's GitHub stats](https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ <div verticalalign="top">
+  ![musash1's GitHub stats](https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs)]   (https://github.com/anuraghazra/github-readme-stats)
+
+  </div>
+
 </div>
