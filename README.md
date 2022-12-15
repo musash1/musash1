@@ -25,8 +25,12 @@ A 17 year-old Swiss apprentice
 | **🔮 Also experienced in** | [![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Ionic](https://img.shields.io/badge/-Ioinic-3880ff?style=for-the-badge&logo=ionic&logoColor=white)](https://ionicframework.com/)|
 
 
-![Metrics](github-metrics.svg) <br>
+![Metrics](github-metrics.svg) 
+<br>
+<hr>
+<br>
+  <div verticalalign="top">
 ![musash1's GitHub stats](https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 </div>
