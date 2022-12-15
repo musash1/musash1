@@ -31,6 +31,6 @@ A 17 year-old Swiss apprentice
 <hr>
 <br>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs">
 
 </div>
