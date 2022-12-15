@@ -26,6 +26,6 @@ A 17 year-old Swiss apprentice
 
 
 ![Metrics](github-metrics.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
