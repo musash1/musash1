@@ -1,6 +1,6 @@
 <div align="center">
 
-![](wave.gif)
+![](benimaru-shinmon.gif)
 
 ###  Hi, I'm luis
 A 17 year-old Swiss apprentice 
