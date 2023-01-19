@@ -3,14 +3,14 @@
 ![](benimaru-shinmon.gif)
 
 ###  Hi, I'm luis
-A 17 year-old Swiss apprentice 
+A 17 year-old Swiss apprentice as a Software Developer
 
 <br>
 </div>
 
 - 🛠 Currently learning Rust 
-- ☕ I hate Coffee 
-- 👨‍💻 Started learning programming approx. 2 years ago 
+- ☕ I find Coffee okay
+- 👨‍💻 Started learning programming when I started my apprenticeship
 - 📡 I enjoy gaming, anime 
 - 👋 Add me on Discord: luiis#0859 
   
