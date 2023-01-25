@@ -8,7 +8,7 @@ A 17 year-old Swiss apprentice as a Software Developer
 <br>
 </div>
 
-- 🛠 Currently learning Rust 
+- 🛠 Currently learning Rust & Svelte
 - ☕ I find Coffee okay
 - 👨‍💻 Started learning programming when I started my apprenticeship
 - 📡 I enjoy gaming, anime 
