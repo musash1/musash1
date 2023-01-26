@@ -31,6 +31,6 @@ A 17 year-old Swiss apprentice as a Software Developer
 <hr>
 <br>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,vim,lua,vimscript,shell">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,vim,lua,'Vim Script',shell">
 
 </div>
