@@ -30,7 +30,7 @@ A 17 year-old Swiss apprentice as a Software Developer
 <br>
 <hr>
 <br>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=logjik&theme=tokyonight&show_icons=true">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logjik&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,lua,shell&exclude_repo=dotfiles">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true">
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,lua,shell&exclude_repo=dotfiles">
 
 </div>
