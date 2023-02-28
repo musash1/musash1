@@ -9,7 +9,7 @@ A 17 year-old Swiss apprentice in Software Developement
 </div>
 
 - 🛠 Currently learning Rust & Svelte
-- ☕ I find Coffee okay
+- ☕ I started to get fond of Coffee
 - 👨‍💻 Started learning programming when I started my apprenticeship
 - 📡 I enjoy gaming, anime 
 - 👋 Add me on Discord: luiis#0859 
