@@ -1,5 +1,5 @@
 <div display="flex">
-<div align="center" width="50%">
+<div align="center" width="45%">
 
 ![](benimaru-shinmon.gif)
 
@@ -14,7 +14,7 @@ A 18 year-old Swiss apprentice in Software Developement
 - 👋 Add me on Discord: luiis#0859
 </div>
   
-<div align="center" width="50%">
+<div align="center" width="45%">
 
 ### ✨ Skills
 
