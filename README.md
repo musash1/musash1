@@ -1,3 +1,4 @@
+<div display="flex">
 <div align="center">
 
 ![](benimaru-shinmon.gif)
@@ -6,12 +7,12 @@
 A 18 year-old Swiss apprentice in Software Developement
 
 <br>
-</div>
 
 - 🛠 Currently learning Rust & Svelte
 - 👨‍💻 Started learning programming when I started my apprenticeship
 - 📡 I enjoy gaming, anime 
-- 👋 Add me on Discord: luiis#0859 
+- 👋 Add me on Discord: luiis#0859
+</div>
   
 <div align="center">
 
@@ -32,4 +33,5 @@ A 18 year-old Swiss apprentice in Software Developement
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,lua,shell&exclude_repo=dotfiles">
 
+</div>
 </div>
