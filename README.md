@@ -1,9 +1,9 @@
 <div display="flex">
   <div align="center" width="45%" >
-    <div display="flex">
+    <div style="display: flex">
       <img src="miyamotomusashi.gif" width="50%"/>
         <div>
-          ###  Hi, I'm luis
+          ### Hi, I'm luis
           A 18 year-old Swiss apprentice in Software Developement
           
           <br>
