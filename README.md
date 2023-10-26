@@ -1,8 +1,8 @@
 <div display="flex">
-<div align="center" width="45%">
-  
+<div align="center" width="45%" display="flex">
+<div>
 <img src="miyamotomusashi.gif" width="50%"/>
-
+<div>
 ###  Hi, I'm luis
 A 18 year-old Swiss apprentice in Software Developement
 
@@ -13,6 +13,10 @@ A 18 year-old Swiss apprentice in Software Developement
 - 📡 I enjoy gaming, anime, calisthenics
 - 👋 Add me on Discord: luiis#0859
 </div>
+</div>
+  
+</div>
+
   
 <div align="center" width="45%">
 
