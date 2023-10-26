@@ -1,7 +1,7 @@
 <div display="flex">
 <div align="center" width="45%">
 
-![](benimaru-shinmon.gif)
+![](miyamoto musashi.webp)
 
 ###  Hi, I'm luis
 A 18 year-old Swiss apprentice in Software Developement
