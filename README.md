@@ -2,7 +2,7 @@
   <div width="100%" text-align="left">
     <div>
       <img src="miyamotomusashi.gif" width="300em" height="300em"/>
-        <div width="100em" height="80em">
+        <div width="200em" height="200em">
           <h2>Hi, I'm luis</h2>
           A 18 year-old Swiss apprentice in Software Developement
           
