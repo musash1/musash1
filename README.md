@@ -3,7 +3,7 @@
     <div style="display: flex">
       <img src="miyamotomusashi.gif" width="50%"/>
         <div>
-          ### Hi, I'm luis
+          <h2>Hi, I'm luis</h2>
           A 18 year-old Swiss apprentice in Software Developement
           
   <br>
