@@ -1,6 +1,6 @@
-<div display="flex">
-  <div width="100%" >
-    <div style="display: flex;">
+<div>
+  <div width="100%">
+    <div>
       <img src="miyamotomusashi.gif" width="50%"/>
         <div width="20%">
           <h2>Hi, I'm luis</h2>
