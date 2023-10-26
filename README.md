@@ -2,7 +2,7 @@
   <div width="100%" >
     <div style="display: flex;">
       <img src="miyamotomusashi.gif" width="50%"/>
-        <div width="30%">
+        <div width="20%">
           <h2>Hi, I'm luis</h2>
           A 18 year-old Swiss apprentice in Software Developement
           
