@@ -1,5 +1,5 @@
 <div display="flex">
-  <div align="center" width="100%" >
+  <div width="100%" >
     <div style="display: flex;">
       <img src="miyamotomusashi.gif" width="50%"/>
         <div>
