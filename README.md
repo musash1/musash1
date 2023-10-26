@@ -2,11 +2,11 @@
   <div width="100%" text-align="left">
     <div>
        
-      <h2>Hi, I'm luis</h2> A 18 year-old Swiss apprentice in Software Developement <br>
+      
   
 
 
-| <img src="miyamotomusashi.gif" width="300em" height="300em"/>    |   - 🛠 Currently learning Rust & Svelte - 👨‍💻 Started learning programming when I started my apprenticeship - 📡 I enjoy gaming, anime, calisthenics - 👋 Add me on Discord: luiis#0859 |
+| <img src="miyamotomusashi.gif" width="auto" height="300em"/>    | <h2>Hi, I'm luis</h2> A 18 year-old Swiss apprentice in Software Developement <br>  - 🛠 Currently learning Rust & Svelte - 👨‍💻 Started learning programming when I started my apprenticeship - 📡 I enjoy gaming, anime, calisthenics - 👋 Add me on Discord: luiis#0859 |
 | ------------- | ------------- |
 
     </div>
