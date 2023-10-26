@@ -1,7 +1,7 @@
 <div display="flex">
-<div align="center" width="45%" display="flex">
+<div align="center" width="45%" >
 <div>
-<img src="miyamotomusashi.gif" width="50%"/>
+<img src="miyamotomusashi.gif" width="50%" display="flex"/>
 <div>
 ###  Hi, I'm luis
 A 18 year-old Swiss apprentice in Software Developement
