@@ -1,8 +1,8 @@
 <div>
   <div width="100%">
     <div>
-      <img src="miyamotomusashi.gif" width="50%"/>
-        <div width="20%">
+      <img src="miyamotomusashi.gif" width="400em"/>
+        <div width="400em">
           <h2>Hi, I'm luis</h2>
           A 18 year-old Swiss apprentice in Software Developement
           
