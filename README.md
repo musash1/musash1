@@ -6,7 +6,7 @@
   
 
 
-| <img src="miyamotomusashi.gif" width="500em" height="auto"/>    | <h2>Hi, I'm luis</h2> A 18 year-old Swiss apprentice in Software Developement <br>  - 🛠 Currently learning Rust & Svelte <br> - 👨‍💻 Started learning programming when I started my apprenticeship <br> - 📡 I enjoy gaming, anime, calisthenics and muay thai |
+| <img src="miyamotomusashi.gif" width="500em" height="auto"/>    | <h2>Hi, I'm luis</h2> A 18 year-old Swiss apprentice in Software Developement <br>  - 🛠 Currently learning Rust & Svelte <br> - 👨‍💻 Started learning programming when I started my apprenticeship <br> - 📡 I enjoy gaming, anime, calisthenics, muay thai and bjj |
 | ------------- | ------------- |
 
 
