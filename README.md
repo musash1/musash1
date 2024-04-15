@@ -6,7 +6,7 @@
   
 
 
-<img src="miyamotomusashi.gif" width="500em" height="auto"/>
+<img src="5UKq.gif" width="500em" height="auto"/>
 
 
     
