@@ -30,7 +30,7 @@
   <hr>
   <br>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=musash1&theme=tokyonight&show_icons=true">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,lua,shell&exclude_repo=dotfiles">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musash1&theme=tokyonight&show_icons=true&layout=compact&hide=html,css,ejs,lua,shell&exclude_repo=dotfiles&exclude_repo=ziglings-solutions">
 
   </div>
 </div>
